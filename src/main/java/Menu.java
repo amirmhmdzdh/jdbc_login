@@ -15,6 +15,8 @@ public class Menu {
         scanner.nextLine();
 
     }
+   public void signUp(){
 
+    }
 
 }
