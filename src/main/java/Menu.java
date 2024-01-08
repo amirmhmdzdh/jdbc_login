@@ -13,6 +13,8 @@ public class Menu {
 
         int number = scanner.nextInt();
         scanner.nextLine();
-        System.out.println(number);
+
     }
+
+
 }
